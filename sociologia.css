@@ -1,0 +1,24 @@
+#titulo1{
+    padding-left:5%;
+    margin-bottom:2px;
+}
+
+#nomes{
+    padding-left:8.5%;
+    margin-top:2px;
+    color:grey;
+}
+
+.margem{
+    padding-left:5%;
+    padding-right:5%;
+}
+
+.texto{
+    font-size:130%;
+    margin-top:5px;
+}
+
+.titulo{
+    margin-bottom:5px;
+}
